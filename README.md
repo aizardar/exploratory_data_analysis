@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caiomiyashiro/exploratory_data_analysis/master)Outro
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caiomiyashiro/exploratory_data_analysis/master)
 
 # exploratory_data_analysis
 Set of notebooks going deeper on understanding some classical approaches on exploratory data analysis.
