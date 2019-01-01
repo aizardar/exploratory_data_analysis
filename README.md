@@ -1,5 +1,7 @@
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caiomiyashiro/exploratory_data_analysis/master)Outro
+
 # exploratory_data_analysis
-Set of notebooks going deeper on understanding some classical approaches on exploratory data analysis. All notebooks can executed on a virtual environment in https://mybinder.org/v2/gh/caiomiyashiro/exploratory_data_analysis/master
+Set of notebooks going deeper on understanding some classical approaches on exploratory data analysis.
 
 # PCA
 Principal Component Analysis is a unsupervised machine learning technique used for multivariable exploratory data analysis and dimensionality reduction.  
